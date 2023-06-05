@@ -1,0 +1,9 @@
+﻿  Amplifier.cpp
+  Antena.cpp
+  Component.cpp
+  Manager.cpp
+  Modem.cpp
+  PC2.cpp
+  Generating Code...
+C:\Users\user1\Desktop\communication system\Common\UDP_Socket.h(60): warning C4172: returning address of local variable or temporary: message
+  PC2.vcxproj -> C:\Users\user1\Desktop\communication system\PC2\Debug\PC2.exe
